@@ -1,0 +1,38 @@
+h1{
+    color:darkred;
+    text-align: center;
+}
+
+h2{
+    color: darkslategrey;
+    text-align: center;
+}
+
+h3{
+    color:darkgreen;
+    text-align: center;
+}
+
+img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    background-color: rosybrown;
+    width:700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    border: 2px solid black;
+}

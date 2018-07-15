@@ -1,0 +1,19 @@
+SUMMARY OUTPUT,,,,,,,,
+,,,,,,,,
+Regression Statistics,,,,,,,,y=mx+b
+Multiple R,0.904921262,,,,,,,predicting = slope (value plugging in) + y-intercept
+R Square,0.81888249,line explain 81% of the data,,,,,,
+Adjusted R Square,0.818577064,,,,,,,y=.51x-80
+Standard Error,200.2462907,,,,,,,
+Observations,595,,,,,,,
+,,,,,,,,
+ANOVA,,,,,,,,
+,df,SS,MS,F,Significance F,,,
+Regression,1,107508994.4,107508994.4,2681.11745,3.4973E-222,,,
+Residual,593,23778456.13,40098.57695,,,,,
+Total,594,131287450.5,,,,,,
+,,,,,,,,
+,Coefficients,Standard Error,t Stat,P-value,Lower 95%,Upper 95%,Lower 95.0%,Upper 95.0%
+Intercept,-80.81635175,13.50950845,-5.982182999,3.80874E-09,-107.3486546,-54.28404893,-107.3486546,-54.28404893
+Minutes Played,0.509360016,0.009837096,51.77950801,3.4973E-222,0.490040229,0.528679803,0.490040229,0.528679803
+,^slope of line,,,,,,,
